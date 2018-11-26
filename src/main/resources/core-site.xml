@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://hadoop-senior.ibeifeng.com:8020</value>
+    </property>
+	<property>
+        <name>hadoop.tmp.dir</name>
+        <value>/opt/cdh5.3.6/hadoop-2.5.0-cdh5.3.6/data/tmp</value>
+    </property>
+	<property>
+		<name>fs.trash.interval</name>
+		<value>420</value>
+	</property>
+</configuration>
+
