@@ -11,7 +11,7 @@
 		<hive.version>0.13.1</hive.version>
 		<zookeeper.version>3.4.11</zookeeper.version>
 		<kafka.version>0.8.2.1</kafka.version>
-		<mysql.version>5.1.18</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<uasparser.version>0.6.1</uasparser.version>
 	</properties>
 	<!-- 版本设置 end -->
