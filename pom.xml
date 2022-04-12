@@ -6,7 +6,7 @@
 	<version>0.0.1</version>
 	<!-- 版本设置 start -->
 	<properties>
-		<hadoop.version>2.5.0</hadoop.version>
+		<hadoop.version>3.2.3</hadoop.version>
 		<hbase.version>0.98.6-hadoop2</hbase.version>
 		<hive.version>0.13.1</hive.version>
 		<zookeeper.version>3.4.11</zookeeper.version>
